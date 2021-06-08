@@ -5,6 +5,9 @@
 *.tfstate
 *.tfstate.*
 
+# Google Creds
+fuchicorp-service-account.json
+
 # Crash log files
 crash.log
 

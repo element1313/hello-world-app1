@@ -1,0 +1,6 @@
+google_bucket_name = "fuchicorp-shohruh-bucket"
+google_project_id = "my-project-777-314500"
+google_domain_name = "mywhiteswan.com"
+deployment_environment = "qa"
+deployment_name = "hello-world"
+credentials = "fuchicorp-service-account.json"
